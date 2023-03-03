@@ -1,0 +1,12 @@
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\bin\Debug\net6.0\NLayerApi.Caching.deps.json
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\bin\Debug\net6.0\NLayerApi.Caching.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\bin\Debug\net6.0\NLayerApi.Caching.pdb
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\obj\Debug\net6.0\NLayerApi.Caching.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\obj\Debug\net6.0\NLayerApi.Caching.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\obj\Debug\net6.0\NLayerApi.Caching.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\obj\Debug\net6.0\NLayerApi.Caching.AssemblyInfo.cs
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\obj\Debug\net6.0\NLayerApi.Caching.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\obj\Debug\net6.0\NLayerApi.Caching.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\obj\Debug\net6.0\refint\NLayerApi.Caching.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\obj\Debug\net6.0\NLayerApi.Caching.pdb
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Caching\obj\Debug\net6.0\ref\NLayerApi.Caching.dll

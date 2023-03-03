@@ -1,0 +1,17 @@
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\bin\Debug\net6.0\NLayerApi.Service.deps.json
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\bin\Debug\net6.0\NLayerApi.Service.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\bin\Debug\net6.0\NLayerApi.Service.pdb
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\bin\Debug\net6.0\NLayerApi.Core.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\bin\Debug\net6.0\NLayerApi.Repository.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\bin\Debug\net6.0\NLayerApi.Repository.pdb
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\bin\Debug\net6.0\NLayerApi.Core.pdb
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\obj\Debug\net6.0\NLayerApi.Service.csproj.AssemblyReference.cache
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\obj\Debug\net6.0\NLayerApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\obj\Debug\net6.0\NLayerApi.Service.AssemblyInfoInputs.cache
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\obj\Debug\net6.0\NLayerApi.Service.AssemblyInfo.cs
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\obj\Debug\net6.0\NLayerApi.Service.csproj.CoreCompileInputs.cache
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\obj\Debug\net6.0\NLayerApi.Service.csproj.CopyComplete
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\obj\Debug\net6.0\NLayerApi.Service.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\obj\Debug\net6.0\refint\NLayerApi.Service.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\obj\Debug\net6.0\NLayerApi.Service.pdb
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Service\obj\Debug\net6.0\ref\NLayerApi.Service.dll
