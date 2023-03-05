@@ -73,3 +73,6 @@ D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Main\bin\Debug\net6.0\Humanizer
 D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Main\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
 D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Main\bin\Debug\net6.0\AutoMapper.dll
 D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Main\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Main\bin\Debug\net6.0\FluentValidation.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Main\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\MyProjects\NEW\NLayerApiProjectV2.0\NLayerApi.Main\bin\Debug\net6.0\FluentValidation.AspNetCore.dll

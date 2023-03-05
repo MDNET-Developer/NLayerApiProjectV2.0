@@ -51,10 +51,10 @@ namespace NLayerApi.Service.Services
             return await _repository.GetById(id);
         }
 
-        public async void Remove(T entity)
+        public  void Remove(T entity)
         {
             _repository.Remove(entity);
-            await _uow.CommitSaveChangesAsync();
+             _uow.CommitSaveChanges();
         }
 
         public async void RemoveRangeAsync(IEnumerable<T> entities)

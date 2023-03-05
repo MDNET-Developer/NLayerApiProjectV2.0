@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "ufg9aWrgjinbZNZ5FjpZ2Zfj6zC2bGEhSbaa2HL2TWVJbM6FxOqnPOsLhfgslW/1dckFPTkydDjZQEf829j9OQ==",
+  "dgSpecHash": "Dn3CwRes7i4V5l2InXrI+zXf8VecaRbJBJep9ZnMM1o+9tNhqx4FP7xg5dmL4BdNiX1ESrhh05UwRLXFJKJkbQ==",
   "success": true,
   "projectFilePath": "D:\\MyProjects\\NEW\\NLayerApiProjectV2.0\\NLayerApi.Main\\NLayerApi.Main.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Murad\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Murad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\Murad\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Murad\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Murad\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Murad\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

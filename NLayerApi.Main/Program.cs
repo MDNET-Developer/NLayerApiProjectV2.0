@@ -1,25 +1,43 @@
 using AutoMapper;
+using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using NLayerApi.Core.Repositories;
+using NLayerApi.Core.Service;
 using NLayerApi.Core.UnitOfWork;
+using NLayerApi.Main.Filters;
 using NLayerApi.Repository.Context;
 using NLayerApi.Repository.Repositories;
 using NLayerApi.Repository.UnitOfWork;
 using NLayerApi.Service.Mapping;
+using NLayerApi.Service.Services;
+using NLayerApi.Service.Validator;
 using System.Reflection;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers(opt=>opt.Filters.Add(new ValidateFilterAtribute())).AddFluentValidation(options =>
+    options.RegisterValidatorsFromAssemblyContaining<ProductDtoValidator>());
+
+//Burada ASP.NET-in default oz filteri var onu baglayaq
+builder.Services.Configure<ApiBehaviorOptions>(opt =>
+{
+    opt.SuppressModelStateInvalidFilter = true;
+});
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
 //Generic oldugu ucun typeof istifade olundu
 builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
+builder.Services.AddScoped<IProductRepository, ProductRepository>();
+builder.Services.AddScoped<IProductService, ProductService>();
 
 builder.Services.AddAutoMapper(opt =>
 {
